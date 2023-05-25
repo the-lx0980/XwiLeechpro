@@ -8,7 +8,7 @@ yt_dlp
 youtube-dl
 hurry.filesize
 python-dotenv>=0.10
-psutil
+psutil==5.8.0
 pyprog
 beautifulsoup4
 bs4
